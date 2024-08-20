@@ -5,20 +5,20 @@ Passionate about crafting beautiful, user-friendly web experiences.
 
 🚀 My Core Skills:
 
-> UI/UX Design: Transforming ideas into intuitive designs.
+* UI/UX Design: Transforming ideas into intuitive designs.
 
-> HTML & CSS: Building responsive and accessible web interfaces.
+* HTML & CSS: Building responsive and accessible web interfaces.
 
-> JavaScript: Bringing interactivity and dynamic features to life.
+* JavaScript: Bringing interactivity and dynamic features to life.
 
-> SQL: Managing and querying databases with precision.
+* SQL: Managing and querying databases with precision.
 
 📚 Currently Exploring:
-> React: Building dynamic, component-based UIs.
+* React: Building dynamic, component-based UIs.
 
-> Node.js: Diving into server-side development.
+* Node.js: Diving into server-side development.
 
-> Git: Mastering version control for seamless collaboration.
+* Git: Mastering version control for seamless collaboration.
 
 🌱 Why I Code:
 
@@ -27,9 +27,9 @@ I believe in the power of technology to make life easier and more enjoyable. Eve
 🔗 Let's Connect:
 Feel free to check out my projects, and don't hesitate to reach out if you'd like to collaborate!
 
-> LinkedIn: linkedin.com/in/in/manya-r-sagar-6255a8278/
+* LinkedIn: [linkedin.com/in/in/manya-r-sagar-6255a8278/](https://linkedin.com/in/in/manya-r-sagar-6255a8278/)
 
-> Email:manyasagartth@gmail.com
+* Email:manyasagartth@gmail.com
 
 
 ## 🌐 Socials:
