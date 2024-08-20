@@ -1,5 +1,24 @@
-# 💫 About Me:
-Hi there, I'm Manya R Sagar👋<br>Welcome to my GitHub profile! I'm a passionate front-end developer eager to create beautiful and functional web applications.<br><br>🌱 What I'm Currently Learning<br>Advanced JavaScript (ES6+)<br>React.js <br>Responsive Web Design<br>Version Control with Git and GitHub<br><br>🔧 Technologies & Tools<br>HTML5, CSS3, JavaScript<br>React.js, Bootstrap, CSS<br>Git, GitHub<br>VS Code
+
+👋 Hello! I'm Manya R Sagar
+🔹 Front-End Developer & Aspiring Full-Stack Developer
+Passionate about crafting beautiful, user-friendly web experiences.
+
+🚀 My Core Skills:
+UI/UX Design: Transforming ideas into intuitive designs.
+HTML & CSS: Building responsive and accessible web interfaces.
+JavaScript: Bringing interactivity and dynamic features to life.
+SQL: Managing and querying databases with precision.
+📚 Currently Exploring:
+React: Building dynamic, component-based UIs.
+Node.js: Diving into server-side development.
+Git: Mastering version control for seamless collaboration.
+🌱 Why I Code:
+I believe in the power of technology to make life easier and more enjoyable. Every line of code I write is a step towards creating something meaningful.
+
+🔗 Let's Connect:
+Feel free to check out my projects, and don't hesitate to reach out if you'd like to collaborate!
+LinkedIn: linkedin.com/in/in/manya-r-sagar-6255a8278/
+Email:manyasagartth@gmail.com
 
 
 ## 🌐 Socials:
